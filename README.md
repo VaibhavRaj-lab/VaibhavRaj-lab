@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **MERN Projects**
 
-- 📝 I regularly write articles on [Medium](Medium)
-
 - 💬 Ask me about **Node.js ,MongoDB and React**
 
 - 📫 How to reach me **Rajvaibhav834@gmail.com**
